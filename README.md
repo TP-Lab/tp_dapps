@@ -1,18 +1,42 @@
-# project description：
-* tb_eos_server is a interface for eos bloackchain
+# 可以使用TP钱包里的Dapp浏览器玩的Dapp列表（包括不局限下面的，持续更新）
+PRA CandyBox
 
+EOSBet
 
-# develop step：
-* git checkout develop
-* git checkout -b feature/heipacker/for_test
+EOS Shadows
 
-# deploy step：
-add host config
+Happy EOS Slot
 
-172.31.233.71   serverinternal.mytokenpocket.vip
+隐秘世界
 
-* install & run
- - option: npm install nrm -g 
- - npm install
- - cd bin
- - sh ./start.sh
+头号玩家
+
+EOS乐透
+
+内存竞猜
+
+EOSPOKE
+
+EOS糖果抓手
+
+EOS巨人
+
+Trump Scam https://trumpscam.me/
+
+EOS Fomo Game https://eosfomogame.github.io/
+
+DeltaDex https://deltadex.io
+
+EOS King https://eosking.one/
+
+Deos Games https://app.deosgames.com/
+
+EOS Lottery https://eosshishicai.com/
+
+EOS Roller and Coinflip https://www.dappswiki.com/EosRoller
+
+Lucky https://www.luckywith.me/
+
+PumpDumpWars https://game.pumpdumpwars.com/
+
+GAMEOS https://geos.gameos.me/
