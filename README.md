@@ -1,4 +1,4 @@
-# 可以使用TP钱包里的Dapp浏览器玩的Dapp列表（包括不局限下面的，持续更新）
+# 使用TP钱包Dapp浏览器可以玩的Dapp列表（包括不局限下面的，持续更新）
 PRA CandyBox
 
 EOSBet
