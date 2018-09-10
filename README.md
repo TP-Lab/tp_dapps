@@ -44,3 +44,7 @@ Lucky https://www.luckywith.me/
 PumpDumpWars https://game.pumpdumpwars.com/
 
 GAMEOS https://geos.gameos.me/
+
+信仰大厦  http://www.myfaith.pro/#/
+
+ite https://ite.zone/
