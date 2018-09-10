@@ -23,6 +23,10 @@ EOS巨人
 
 Trump Scam https://trumpscam.me/
 
+EOS 时时彩 http://tp.eosshishicai.com
+
+EOS Win http://eos.win/dice
+
 EOS Fomo Game https://eosfomogame.github.io/
 
 DeltaDex https://deltadex.io
